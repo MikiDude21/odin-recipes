@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color:white;
+}
+#title , #header {
+  color: darkgoldenrod;  
+  font-family:"Brush Script MT", cursive;
+  font-weight: 800;
+  font-size: 80px;
+  text-align: center;
+}
+
+img{
+    height: auto;
+    width: 350px;
+}
+h1{
+    color: rgb(177, 33, 177);
+}
+ul{
+    font-family:"Brush Script MT", cursive;
+    font-size:40px;
+}
+#ingredents{
+    font-size:30px;
+    color: chocolate;
+}
+ol , p {
+    text-align: left;
+}
+a:hover{
+    font-size: 70px;
+    color: darkmagenta;
+}
+#link:hover{
+    font-size: 20px;
+    color: darkmagenta;
+}
+}
